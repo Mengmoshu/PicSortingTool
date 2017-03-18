@@ -1,0 +1,27 @@
+﻿<Window x:Class="PicSortingTool.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:my="clr-namespace:PicSortingTool"
+        Title="PicSortingTool"
+        WindowState="Maximized">
+    <DockPanel Background="Black">
+        <!-- Status Bar -->
+        <DockPanel DockPanel.Dock="Bottom" HorizontalAlignment="Center">
+            <TextBlock.Foreground>LightGray</TextBlock.Foreground>
+            <TextBlock x:Name="PicFileName" FontSize="16"><Run Text="&quot;Filename.Extension&quot;"/></TextBlock>
+            <Rectangle Width="10" />
+            <TextBlock x:Name="PicDimmensions" FontSize="16"><Run Text="&quot;PicDimmensions&quot;"/></TextBlock>
+            <Rectangle Width="10" />
+            <TextBlock x:Name="PicFilesize" FontSize="16"><Run Text="&quot;PicFilesize&quot;"/></TextBlock>
+        </DockPanel>
+        <!-- Configuration Expander -->
+        <Expander DockPanel.Dock="Right" HorizontalAlignment="Right" Background="AliceBlue" ExpandDirection="Left">
+            <ScrollViewer VerticalScrollBarVisibility="Auto" >
+                <my:ConfigurationPage VerticalAlignment="Top" />
+            </ScrollViewer>
+        </Expander>
+        <!-- Picture Display -->
+        <Image DockPanel.Dock="Right" x:Name="PicDisplay" StretchDirection="DownOnly" 
+               Source="{Binding CurrentImagePath}"/>
+    </DockPanel>
+</Window>

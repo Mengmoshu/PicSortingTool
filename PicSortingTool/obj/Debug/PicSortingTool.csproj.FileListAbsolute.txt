@@ -1,0 +1,17 @@
+c:\users\mengmoshu\documents\visual studio 2013\Projects\PicSortingTool\PicSortingTool\bin\Debug\PicSortingTool.exe.config
+C:\Users\Mengmoshu\Documents\Visual Studio 2013\Projects\PicSortingTool\PicSortingTool\bin\Debug\PicSortingTool.exe
+C:\Users\Mengmoshu\Documents\Visual Studio 2013\Projects\PicSortingTool\PicSortingTool\bin\Debug\PicSortingTool.pdb
+C:\Users\Mengmoshu\Documents\Visual Studio 2013\Projects\PicSortingTool\PicSortingTool\obj\Debug\PicSortingTool.csprojResolveAssemblyReference.cache
+C:\Users\Mengmoshu\Documents\Visual Studio 2013\Projects\PicSortingTool\PicSortingTool\obj\Debug\MainWindow.baml
+C:\Users\Mengmoshu\Documents\Visual Studio 2013\Projects\PicSortingTool\PicSortingTool\obj\Debug\MainWindow.g.cs
+C:\Users\Mengmoshu\Documents\Visual Studio 2013\Projects\PicSortingTool\PicSortingTool\obj\Debug\App.g.cs
+C:\Users\Mengmoshu\Documents\Visual Studio 2013\Projects\PicSortingTool\PicSortingTool\obj\Debug\PicSortingTool_MarkupCompile.cache
+C:\Users\Mengmoshu\Documents\Visual Studio 2013\Projects\PicSortingTool\PicSortingTool\obj\Debug\PicSortingTool.g.resources
+C:\Users\Mengmoshu\Documents\Visual Studio 2013\Projects\PicSortingTool\PicSortingTool\obj\Debug\PicSortingTool.Properties.Resources.resources
+C:\Users\Mengmoshu\Documents\Visual Studio 2013\Projects\PicSortingTool\PicSortingTool\obj\Debug\PicSortingTool.csproj.GenerateResource.Cache
+C:\Users\Mengmoshu\Documents\Visual Studio 2013\Projects\PicSortingTool\PicSortingTool\obj\Debug\PicSortingTool.exe
+C:\Users\Mengmoshu\Documents\Visual Studio 2013\Projects\PicSortingTool\PicSortingTool\obj\Debug\PicSortingTool.pdb
+C:\Users\Mengmoshu\Documents\Visual Studio 2013\Projects\PicSortingTool\PicSortingTool\obj\Debug\ConfigurationPage.baml
+C:\Users\Mengmoshu\Documents\Visual Studio 2013\Projects\PicSortingTool\PicSortingTool\obj\Debug\ConfigurationPage.g.cs
+C:\Users\Mengmoshu\Documents\Visual Studio 2013\Projects\PicSortingTool\PicSortingTool\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Mengmoshu\Documents\Visual Studio 2013\Projects\PicSortingTool\PicSortingTool\obj\Debug\PicSortingTool_MarkupCompile.lref
